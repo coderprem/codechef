@@ -41,6 +41,6 @@ Please note that these solutions are intended for learning purposes and personal
 If you have any questions, suggestions, or feedback, feel free to reach out to me:
 
 - Email: [erprem013@gmail.com](mailto:erprem013@gmail.com)
-- Linkedin: [Prem Kumar](https://www.linkedin.com/in/coderprem/)
+- Linkedin: [coderprem](https://www.linkedin.com/in/coderprem/)
 
 Happy coding and happy problem-solving! 🚀
