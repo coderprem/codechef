@@ -1,12 +1,11 @@
 import java.util.Scanner;
 
-public class CCLEARN {
+public class APPLORNG {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int t = scanner.nextInt();
-        System.out.println(t*2);
-        System.out.println(t*2);
-        System.out.println("this");
+        int a = scanner.nextInt();
+        int b = scanner.nextInt();
+        System.out.println((a+b)<=t ? "YES" : "NO");
     }
 }
-
